@@ -1,5 +1,0 @@
-JSON
-{
-&quot;system_title&quot;: &quot;App 2.0&quot;,
-&quot;status&quot;: &quot;CRITICAL&quot;
-}
